@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sandra Nahara 👋
 
-Ingeniera Informatica recibida en la Universidad Nacional de Irapua. Desarrolladora Full Stack, apasionada por la tecnología y la innovación.
+Ingeniera Informatica recibida en la Universidad Nacional de Itapua. Desarrolladora Full Stack, apasionada por la tecnología y la innovación.
 
 Mi enfoque principal está en la **Inteligencia Artificial**, con un interés especial en el desarrollo de **chatbots inteligentes** y la aplicación de algoritmos de Machine Learning. También disfruto construyendo experiencias de usuario intuitivas con **Front-end** y sistemas robustos en **Back-end**.
 
